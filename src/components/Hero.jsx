@@ -3,11 +3,11 @@ export default function Hero() {
   return (
     <section className="relative h-screen text-white overflow-hidden">
       {/* Background Image */}
-      <img
+      {/* <img
         src="/public/hero.png" // Simpan di: public/assets/hero-gaming-setup.png
         alt="Gaming Setup"
         className="absolute top-0 left-0 w-full h-full object-cover"
-      />
+      /> */}
 
       {/* Overlay untuk gelapin gambar */}
       <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-60" />
