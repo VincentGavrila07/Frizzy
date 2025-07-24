@@ -4,7 +4,7 @@ export default function Hero() {
     <section className="relative h-screen text-white overflow-hidden">
       {/* Background Image */}
       <img
-        src="/public/heroFrizzy.png" // Simpan di: public/assets/hero-gaming-setup.png
+        src="/public/hero.png" // Simpan di: public/assets/hero-gaming-setup.png
         alt="Gaming Setup"
         className="absolute top-0 left-0 w-full h-full object-cover"
       />
