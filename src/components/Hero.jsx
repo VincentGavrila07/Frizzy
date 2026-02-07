@@ -25,7 +25,7 @@ export default function Hero() {
             href="https://bagibagi.co/frizzy"
             className="bg-indigo-600 hover:bg-indigo-700 text-white py-3 px-8 rounded-full font-semibold shadow-lg transition"
           >
-            Mau Donk Di Saweerr 😁
+            Aku Mau Donk Di Support
           </a>
           <a
             href="#schedule"
